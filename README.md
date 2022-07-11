@@ -1,4 +1,4 @@
-<h1 align="center">João Victor Weyne Parente Caliman</h1>
+<h1 align="center">João Victor</h1>
 <h3 align="center">Um desenvolvedor junior apaixonado por bots do Discord e interação com servidores.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sum117&label=Profile%20views&color=0e75b6&style=flat" alt="sum117" /> </p>
