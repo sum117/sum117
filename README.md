@@ -10,8 +10,6 @@
 
 🤝 No momento, ando interessado em colaborar em projetos com o pacote [Discord.js](https://github.com/discordjs/discord.js)
 
-🖐️ Estou aceitando colaboradores voluntários para a [Moniqueta](https://github.com/sum117/Moniqueta-Discord.js)
-
 💬 Peça minha ajuda com **react, js, py**
 
 📫 Entre em contato comigo: **jvcaliman@hotmail.com**
