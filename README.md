@@ -14,11 +14,7 @@
 
 📫 Entre em contato comigo: **jvcaliman@hotmail.com**
 
-**Warning**:
-
-  All my archived repositories are unfinished projects that I don't intend to continue.
-  
-  Todos os meus repositorios arquivados são projetos não finalizados que eu não pretendo continuar (A maioria deles).
+**Warning**: All my archived repositories are unfinished projects that I don't intend to continue (Todos os meus repositorios arquivados são projetos não finalizados que eu não pretendo continuar (A maioria deles)).
 
 ❔ **Meu nome de usuário é baseado no significado numerológico da soma dele.**
 <p align="left">
