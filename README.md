@@ -6,7 +6,7 @@
 
 📌 In my free time working in [Ansenbot](https://github.com/sum117/ansenbot)
 
-🌱 Studying **React.js, Svelte, Typescript, Rust e Powershell.**
+🌱 Studying **React.js, Svelte, Typescript, Rust & Powershell.**
 
 🤝 Currently interested in projects in the  [Discord.js](https://github.com/discordjs/discord.js) package.
 
