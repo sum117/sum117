@@ -1,7 +1,7 @@
 <h1 align="center">John Caliman</h1>
 
 <h3 align="center">A Web Developer in love with discord bots and API interaction.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sum117&label=Visualizações&color=0e75b6&style=for-the-badge" alt="sum117" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sum117&label=Views&color=0e75b6&style=for-the-badge" alt="sum117" /> </p>
 <img align="left" width="256" height="256" src="https://user-images.githubusercontent.com/75037449/178651527-652a8916-1cc3-44ce-a821-67dcac72d409.png"/>
 
 📌 In my free time working in [Ansenbot](https://github.com/sum117/ansenbot)
