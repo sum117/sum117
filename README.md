@@ -4,14 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sum117&label=Views&color=0e75b6&style=for-the-badge" alt="sum117" /> </p>
 <img align="left" width="256" height="256" src="https://user-images.githubusercontent.com/75037449/178651527-652a8916-1cc3-44ce-a821-67dcac72d409.png"/>
 
-📌 In my free time working in [Ansenbot](https://github.com/sum117/ansenbot)
-
-🌱 Studying **React.js, Svelte, Typescript, Rust & Powershell.**
-
-🤝 Currently interested in projects in the  [Discord.js](https://github.com/discordjs/discord.js) package.
-
-💬 Ask my help with **react, ts & web scraping**
-
 📫 Contact me: **jvcaliman@hotmail.com**
 
 **Warning**: All my archived repositories are unfinished projects that I don't intend to continue.
