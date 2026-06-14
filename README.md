@@ -13,6 +13,7 @@
   <a href="https://discord.gg/ansenfall"><img src="https://img.shields.io/badge/Discord-ansenfall-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:sum2to7@gmail.com"><img src="https://img.shields.io/badge/Email-sum2to7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/jvcaliman/"><img src="https://img.shields.io/badge/LinkedIn-jvcaliman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@ansenfall"><img src="https://img.shields.io/badge/YouTube-@ansenfall-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 <p align="center"><sub><i>"O outono chegou e jamais foi embora."</i> — Ansenfall: Ascensão</sub></p>
@@ -21,7 +22,7 @@
 
 ## 🍂 Currently building — [Arquivo Masoria](https://archive.masoria-universe.com)
 
-A **live, full-stack platform** for a collaborative roleplaying universe — a public, read-only **archive** of narrative arcs, characters, and the *panteão de Ascensão*, written by a community of authors.
+A **live, full-stack platform** for a collaborative roleplaying universe — a public, read-only **archive** of narrative arcs, characters, and the *panteão de Ascensão*.
 
 **Live → [archive.masoria-universe.com](https://archive.masoria-universe.com)** &nbsp;·&nbsp; **Community → [discord.gg/ansenfall](https://discord.gg/ansenfall)**
 
@@ -52,6 +53,19 @@ A members-only control panel for a self-hosted *The Isle: Evrima* community — 
 | **Infra** | PostgreSQL · Docker · Cloudflare Tunnel |
 
 A six-app monorepo wiring a Next.js dashboard to a live game server.
+
+## 🎬 duet-video-synth — soundtracks, rendered in code
+
+A config-driven, audio-reactive **duet/solo music-video engine** built on **[Remotion](https://www.remotion.dev)**. Every track on **[▶ @ansenfall](https://www.youtube.com/@ansenfall)** is rendered with it.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=5T77Mh8gK-E"><img width="260" src="https://img.youtube.com/vi/5T77Mh8gK-E/maxresdefault.jpg" alt="BGM: The Solar Memories" /></a>
+  <a href="https://www.youtube.com/watch?v=rJGLpBK0KIY"><img width="260" src="https://img.youtube.com/vi/rJGLpBK0KIY/maxresdefault.jpg" alt="BGM: The Red Memories" /></a>
+  <a href="https://www.youtube.com/watch?v=8tv5amZ_DEo"><img width="260" src="https://img.youtube.com/vi/8tv5amZ_DEo/maxresdefault.jpg" alt="BGM: The Lunar Memories" /></a>
+  <a href="https://www.youtube.com/watch?v=veX89QSSr-M"><img width="260" src="https://img.youtube.com/vi/veX89QSSr-M/maxresdefault.jpg" alt="BGM: Facing The Radiants" /></a>
+  <a href="https://www.youtube.com/watch?v=JKmweAtxFeU"><img width="260" src="https://img.youtube.com/vi/JKmweAtxFeU/maxresdefault.jpg" alt="Paenitet Theme: I Only Wait" /></a>
+  <a href="https://www.youtube.com/watch?v=ebCt71cUu6Q"><img width="260" src="https://img.youtube.com/vi/ebCt71cUu6Q/maxresdefault.jpg" alt="Astella Theme: The Autumn Years" /></a>
+</p>
 
 ## 🛠 Selected work
 
@@ -89,9 +103,10 @@ A six-app monorepo wiring a Next.js dashboard to a live game server.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Bots · Realtime · Game**  
+**Bots · Realtime · Creative**  
 ![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![Remotion](https://img.shields.io/badge/Remotion-000000?style=for-the-badge&logo=remotion&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Ren'Py](https://img.shields.io/badge/Ren%27Py-663399?style=for-the-badge)
 
