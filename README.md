@@ -117,8 +117,8 @@ A config-driven, audio-reactive **duet/solo music-video engine** built on **[Rem
 ## 📊 Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sum117&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sum117&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sum117s-projects.vercel.app/api?username=sum117&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sum117s-projects.vercel.app/api/top-langs/?username=sum117&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sum117&hide_border=true&theme=tokyonight" alt="Streak" />
