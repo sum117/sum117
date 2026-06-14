@@ -63,7 +63,7 @@ A six-app monorepo wiring a Next.js dashboard to a live game server.
 | **[the-conductor](https://github.com/sum117/the-conductor)** | Self-hosted Discord **music bot** — Bun · yt-dlp · ffmpeg · Docker |
 | **[masoria-parser](https://github.com/sum117/masoria-parser)** | The little visual-novel parser where *Masoria* began |
 
-**Open source:** PR to **[vercel-labs/skills](https://github.com/vercel-labs/skills)** (`npx skills`) &nbsp;·&nbsp; active in **[anthropics/claude-code](https://github.com/anthropics/claude-code)** issues.
+**Open source — merged PRs:** **[oven-sh/bun](https://github.com/oven-sh/bun/pull/5513)** &nbsp;·&nbsp; **[discordx](https://github.com/discordx-ts/discordx/pull/886)** (pagination guard) &nbsp;·&nbsp; **[botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb/pull/1656)** (CodeMirror panel editor).
 
 ## 🧰 Toolbox
 
