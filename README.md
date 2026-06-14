@@ -1,19 +1,98 @@
-<h1 align="center">Sum117</h1>
+<h1 align="center">João Victor Caliman</h1>
 
-<h3 align="center">A Web Developer in love with discord bots and API interaction.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sum117&label=Views&color=0e75b6&style=for-the-badge" alt="sum117" /> </p>
-
-📫 Contact me: **jvcaliman@hotmail.com**
-
-**Warning**: All my archived repositories are unfinished projects that I don't intend to continue.
-
-❔ **My username is based off its numerology meaning.**
-<p align="left">
-<a href="https://stackoverflow.com/users/19334436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19334436" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sum117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sum117" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hz4Mzybsd4" height="30" width="40" /></a>
+<p align="center">
+  <em>Full-stack engineer (TypeScript · Bun) building live, AI-assisted platforms for collaborative storytelling.</em>
 </p>
-<h3 align="left">🚀 Acquainted With</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p align="center">
+  🇧🇷 Brazil &nbsp;·&nbsp; @ Deloitte &nbsp;·&nbsp; <code>@masoria</code> on Discord
+</p>
 
+<p align="center">
+  <a href="https://archive.masoria-universe.com"><img src="https://img.shields.io/badge/Arquivo_Masoria-Live_site-0A0A0A?style=for-the-badge" alt="Live site" /></a>
+  <a href="https://discord.gg/ansenfall"><img src="https://img.shields.io/badge/Discord-ansenfall-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:sum2to7@gmail.com"><img src="https://img.shields.io/badge/Email-sum2to7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/jvcaliman/"><img src="https://img.shields.io/badge/LinkedIn-jvcaliman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center"><sub><i>"O outono chegou e jamais foi embora."</i> — Ansenfall: Ascensão</sub></p>
+
+---
+
+## 🍂 Currently building — [Arquivo Masoria](https://archive.masoria-universe.com)
+
+A **live, full-stack platform** for a collaborative roleplaying universe — a public, read-only **archive** of narrative arcs, characters, and the *panteão de Ascensão*, written by a community of authors.
+
+**Live → [archive.masoria-universe.com](https://archive.masoria-universe.com)** &nbsp;·&nbsp; **Community → [discord.gg/ansenfall](https://discord.gg/ansenfall)**
+
+Powered by a private Bun monorepo:
+
+| Layer | Stack |
+| --- | --- |
+| **Web** | Next.js 16 · React 19 (RSC) |
+| **API** | Bun · Hono · Drizzle |
+| **Realtime** | `Bun.serve` WebSocket fan-out |
+| **Bot** | Discord — character proxy (*falas*) · creator wizard · role menus |
+| **Engine** | Framework-agnostic, zod-only combat & crafting |
+
+…all on **PostgreSQL + Docker**, shipped with a multi-agent, **AI-assisted workflow** (Claude Code + Codex + open agent [skills](https://skills.sh)).
+
+## 🛠 Selected work
+
+| Project | What it is |
+| --- | --- |
+| **[RenPy-WeaponPlugin](https://github.com/sum117/RenPy-WeaponPlugin)** ⭐ | Interactive weapon system (shooting · reloading) for the **Ren'Py** visual-novel engine |
+| **[trinity-discordx](https://github.com/sum117/trinity-discordx)** | *"Discord Roleplaying. Redefined."* — a feature-rich RP bot (discordx · TypeScript) |
+| **[CantYouSeeImBusy](https://github.com/sum117/CantYouSeeImBusy)** | **C# RimWorld mod** (live on the Steam Workshop) — keeps colonists focused in combat |
+| **[the-conductor](https://github.com/sum117/the-conductor)** | Self-hosted Discord **music bot** — Bun · yt-dlp · ffmpeg · Docker |
+| **[masoria-parser](https://github.com/sum117/masoria-parser)** | The little visual-novel parser where *Masoria* began |
+
+**Open source:** PR to **[vercel-labs/skills](https://github.com/vercel-labs/skills)** (`npx skills`) &nbsp;·&nbsp; active in **[anthropics/claude-code](https://github.com/anthropics/claude-code)** issues.
+
+## 🧰 Toolbox
+
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Web & API**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Runtime & Data**  
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Bots · Realtime · Game**  
+![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Ren'Py](https://img.shields.io/badge/Ren%27Py-663399?style=for-the-badge)
+
+**Workflow**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+## 📊 Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sum117&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sum117&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sum117&hide_border=true&theme=tokyonight" alt="Streak" />
+</p>
+
+<!-- Stats reflect PUBLIC activity. To make masoria-universe show up: Settings → Profile → "Include private contributions on my profile". -->
+
+---
+
+<p align="center"><sub>🔢 The handle is a numerology thing. &nbsp;·&nbsp; <i>Building worlds, one commit at a time.</i></sub></p>
