@@ -91,7 +91,15 @@ Powered by a private Bun monorepo:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sum117&hide_border=true&theme=tokyonight" alt="Streak" />
 </p>
 
-<!-- Stats reflect PUBLIC activity. To make masoria-universe show up: Settings → Profile → "Include private contributions on my profile". -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sum117/sum117/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sum117/sum117/output/github-snake.svg" />
+    <img alt="My contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/sum117/sum117/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- Snake auto-regenerates every 12h via .github/workflows/snake.yml → output branch. Private contributions included (toggle enabled in profile settings). -->
 
 ---
 
