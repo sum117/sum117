@@ -37,6 +37,22 @@ Powered by a private Bun monorepo:
 
 …all on **PostgreSQL + Docker**, shipped with a multi-agent, **AI-assisted workflow** (Claude Code + Codex + open agent [skills](https://skills.sh)).
 
+## 🦖 Recently shipped — Primord Survival Dashboard
+
+A members-only control panel for a self-hosted *The Isle: Evrima* community — Steam sign-in, live server ops, dinosaur storage, a live map, a 3D skin studio, and staff admin tooling.
+
+**Live (members-only) → [painel.primord-oficial.com](https://painel.primord-oficial.com)**
+
+| Layer | Stack |
+| --- | --- |
+| **Web** | Next.js 15 · React · Three.js (3D Skin Studio) |
+| **Auth** | Auth.js / NextAuth 5 — Steam sign-in, SteamID64 identity |
+| **Services** | TypeScript monorepo (pnpm) — API · RCON daemon · Discord bot · log-tailer |
+| **Integration** | Native **C++** helper for live game-server control |
+| **Infra** | PostgreSQL · Docker · Cloudflare Tunnel |
+
+A six-app monorepo wiring a Next.js dashboard to a live game server.
+
 ## 🛠 Selected work
 
 | Project | What it is |
@@ -56,11 +72,13 @@ Powered by a private Bun monorepo:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Web & API**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
