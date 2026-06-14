@@ -18,6 +18,65 @@
 
 <p align="center"><sub><i>"O outono chegou e jamais foi embora."</i> — Ansenfall: Ascensão</sub></p>
 
+<p align="center"><b>🌐</b> &nbsp; 🇺🇸 English (default) &nbsp;·&nbsp; clique em ▸ para <b>🇧🇷 Português</b></p>
+
+<details>
+<summary>🇧🇷 &nbsp;<b>Ler o perfil em Português</b></summary>
+
+### João Victor Caliman
+
+*Engenheiro full-stack (TypeScript · Bun) construindo plataformas ao vivo, assistidas por IA, para narrativa colaborativa.* — 🇧🇷 Brasil · @ Deloitte
+
+#### 🍂 Em desenvolvimento — [Arquivo Masoria](https://archive.masoria-universe.com)
+
+Uma **plataforma full-stack ao vivo** para um universo de roleplay colaborativo — um **arquivo** público e somente-leitura de arcos narrativos, personagens e o *panteão de Ascensão*.
+
+**No ar → [archive.masoria-universe.com](https://archive.masoria-universe.com)** &nbsp;·&nbsp; **Comunidade → [discord.gg/ansenfall](https://discord.gg/ansenfall)**
+
+| Camada | Stack |
+| --- | --- |
+| **Web** | Next.js 16 · React 19 (RSC) |
+| **API** | Bun · Hono · Drizzle |
+| **Tempo real** | `Bun.serve` — distribuição WebSocket |
+| **Bot** | Discord — proxy de personagem (*falas*) · assistente de criação · menus de cargo |
+| **Motor** | Combate e crafting agnóstico de framework, só com zod |
+
+…tudo sobre **PostgreSQL + Docker**, entregue com um fluxo **multiagente assistido por IA** (Claude Code + Codex + agent [skills](https://skills.sh)).
+
+#### 🦖 Lançado recentemente — Primord Survival Dashboard
+
+Painel de controle exclusivo para membros de uma comunidade self-hosted de *The Isle: Evrima* — login com Steam, operações de servidor ao vivo, armazenamento de dinossauros, mapa ao vivo, um estúdio de skins 3D e ferramentas de administração.
+
+**No ar (exclusivo p/ membros) → [painel.primord-oficial.com](https://painel.primord-oficial.com)**
+
+| Camada | Stack |
+| --- | --- |
+| **Web** | Next.js 15 · React · Three.js (Estúdio de Skins 3D) |
+| **Autenticação** | Auth.js / NextAuth 5 — login com Steam, identidade via SteamID64 |
+| **Serviços** | Monorepo TypeScript (pnpm) — API · daemon RCON · bot do Discord · log-tailer |
+| **Integração** | Helper nativo em **C++** para controle do servidor ao vivo |
+| **Infra** | PostgreSQL · Docker · Cloudflare Tunnel |
+
+#### 🎬 duet-video-synth — trilhas, renderizadas em código
+
+Um motor de videoclipes (dueto/solo) reativo ao áudio e guiado por configuração, sobre **[Remotion](https://www.remotion.dev)**. Todo vídeo do canal **[▶ @ansenfall](https://www.youtube.com/@ansenfall)** é renderizado com ele. *(As miniaturas estão na versão em inglês, logo abaixo.)*
+
+#### 🛠 Trabalhos selecionados
+
+| Projeto | O que é |
+| --- | --- |
+| **[RenPy-WeaponPlugin](https://github.com/sum117/RenPy-WeaponPlugin)** ⭐ | Sistema interativo de armas (disparo · recarga) para o motor de visual novels **Ren'Py** |
+| **[trinity-discordx](https://github.com/sum117/trinity-discordx)** | *"Discord Roleplaying. Redefined."* — bot de RP cheio de recursos (discordx · TypeScript) |
+| **[CantYouSeeImBusy](https://github.com/sum117/CantYouSeeImBusy)** | **Mod de RimWorld em C#** (no Steam Workshop) — mantém os colonos focados em combate |
+| **[the-conductor](https://github.com/sum117/the-conductor)** | **Bot de música** do Discord self-hosted — Bun · yt-dlp · ffmpeg · Docker |
+| **[masoria-parser](https://github.com/sum117/masoria-parser)** | O pequeno parser de visual novel onde *Masoria* começou |
+
+**Open source — PRs aceitos:** **[oven-sh/bun](https://github.com/oven-sh/bun/pull/5513)** &nbsp;·&nbsp; **[discordx](https://github.com/discordx-ts/discordx/pull/886)** &nbsp;·&nbsp; **[botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb/pull/1656)**
+
+> 🧰 **Toolbox** e 📊 **Activity** ficam logo abaixo — são universais (badges e gráficos).
+
+</details>
+
 ---
 
 ## 🍂 Currently building — [Arquivo Masoria](https://archive.masoria-universe.com)
