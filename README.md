@@ -73,7 +73,7 @@ Um motor de videoclipes (dueto/solo) reativo ao áudio e guiado por configuraç�
 
 **Open source — PRs aceitos:** **[oven-sh/bun](https://github.com/oven-sh/bun/pull/5513)** &nbsp;·&nbsp; **[discordx](https://github.com/discordx-ts/discordx/pull/886)** &nbsp;·&nbsp; **[botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb/pull/1656)**
 
-**Contribuidor do Hermes Agent:** autoria da implementação e análise de design originais em **[#88952](https://github.com/NousResearch/hermes-agent/pull/88952)**; a abordagem foi creditada e incorporada no **[#96974](https://github.com/NousResearch/hermes-agent/pull/96974)**, que foi merged.
+**Contribuidor do Hermes Agent:** autoria da implementação e análise de design originais em **[#88952](https://github.com/NousResearch/hermes-agent/pull/88952)**; a abordagem foi creditada e incorporada no **[#96974](https://github.com/NousResearch/hermes-agent/pull/96974)**, que foi mesclado.
 
 > 🧰 **Toolbox** e 📊 **Activity** ficam logo abaixo — são universais (badges e gráficos).
 
